@@ -21,17 +21,17 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "a.html",
-    "href": "a.html",
+    "objectID": "project.html",
+    "href": "project.html",
     "title": "Andrew Laitha",
     "section": "",
-    "text": "title: “About” subtitle: “Andrew Laitha” image: file.png about: template: trestles format: html: toc: false —"
+    "text": "Literature review\nDeveloping survey questionnaire\nSurvey implementation\nData analysis\nPresentation"
   },
   {
-    "objectID": "a.html#about",
-    "href": "a.html#about",
+    "objectID": "project.html#ongoing-project",
+    "href": "project.html#ongoing-project",
     "title": "Andrew Laitha",
-    "section": "About",
-    "text": "About\nMy doctoral studies focus on the effect of conflict on agricultural laborers. Specifically, giving attention to the effect of conflict on agricultural wages identifies the link between exposure to violence, mental health, and labor productivity of agricultural laborers. Additionally, it looks at the unionization of labour, bargaining of laborers, and its effects on the working conditions of the workers. The study used both secondary and primary data sets. Armed Conflict Location and Data Project is used to measure the severity of conflict. The primary data is collected from 1,500 agricultural laborers across Myanmar using a survey instrument. The project is implemented with the International Food Policy Research Institute (IFPRI)."
+    "section": "",
+    "text": "Literature review\nDeveloping survey questionnaire\nSurvey implementation\nData analysis\nPresentation"
   }
 ]

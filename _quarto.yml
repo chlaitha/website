@@ -4,17 +4,17 @@ project:
 
 website:
   title: "Andrew Laitha"
+  site-url: "https://chlaitha.github.io/website/"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - href: a.qmd
+      - href: project.qmd
         text: Project
-      - href: b.qmd
+      - href: research.qmd
         text: Research
-      - href: c.qmd
+      - href: publication.qmd
         text: Publication
-
 
 
 format:

@@ -1,0 +1,17 @@
+---
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+## Ongoing project
+
+-   Literature review
+
+-   Developing survey questionnaire
+
+-   Survey implementation
+
+-   Data analysis
+
+-   Presentation

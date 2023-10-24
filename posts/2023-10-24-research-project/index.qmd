@@ -1,0 +1,11 @@
+---
+title: Get started with Blogging
+subtitle: A template for a Blog.
+description: |
+  This is a template from which the YAML metadata can be copied for a new blog 
+  post.
+author: "Andrew Laitha"
+data: today #test
+draft: true
+bibliography: "../../chlaitha.bib" 
+---

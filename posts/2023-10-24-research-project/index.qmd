@@ -1,11 +1,24 @@
 ---
-title: Get started with Blogging
-subtitle: A template for a Blog.
+title: Recall length and measurement error in agricultural surveys
+subtitle: Survey desig study
 description: |
-  This is a template from which the YAML metadata can be copied for a new blog 
-  post.
+  PhD project
 author: "Andrew Laitha"
 data: today #test
-draft: true
-bibliography: "../../chlaitha.bib" 
+draft: false
+bibliography: "../../chlaitha.bib" #address for the bib folder
 ---
+
+## Abstract
+
+This paper assesses the relationship between the length of recall and nonrandom error in agricultural survey data. Using data from LSMS-ISA surveys in Malawi and Tanzania, we show that key input and output variables are systematically related to the length of the recall period, indicating the presence of nonrandom measurement error. With longer recall periods, farmers report higher quantities of harvest, labor and fertilizer inputs. Farmers list fewer plots as the recall period increases. We argue that it is plausible that farmers over-estimate plot-level outcomes -- harvest, labor and fertilizer inputs -- while it is also plausible that they forget some of their more marginal plots as their memory decays due to longer recall periods. We find evidence of measurement error related to the length of recall also in common measures of agricultural productivity. The size of the recall effect typically varies between 2 and 5 percent per additional month of recall length, making its impact on the reliability of key agricultural indicators, including SDG indicator 2.3, economically significant. With data reliability affecting policy effectiveness, improving agricultural survey data quality remains an important concern, especially in light of the ambitious 2030 agenda reflected in the Sustainable Development Goals. Mainstreaming objective measures where possible and reducing the risk of recall error through shorter recall periods appear to be promising avenues to improve the quality of key variables in agricultural surveys.
+
+## Heading
+
+Cite this paper [@carletto2021chapter]
+
+Cite the second paper [@dillon2023respondent]
+
+Cite the third paper [@wollburg2021recalla]
+
+Cite the parer @carletto2021chapter

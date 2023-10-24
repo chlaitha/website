@@ -2,14 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://chlaitha.github.io/website/index.html</loc>
-    <lastmod>2023-10-24T09:44:11.876Z</lastmod>
+    <lastmod>2023-10-24T10:16:04.965Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chlaitha.github.io/website/posts/2023-10-24-research-project/index.html</loc>
+    <lastmod>2023-10-24T10:16:04.425Z</lastmod>
   </url>
   <url>
     <loc>https://chlaitha.github.io/website/about.html</loc>
-    <lastmod>2023-10-24T09:43:54.463Z</lastmod>
+    <lastmod>2023-10-24T10:16:04.109Z</lastmod>
   </url>
   <url>
-    <loc>https://chlaitha.github.io/website/project.html</loc>
-    <lastmod>2023-10-24T09:43:53.663Z</lastmod>
+    <loc>https://chlaitha.github.io/website/posts/index.html</loc>
+    <lastmod>2023-10-24T10:16:04.729Z</lastmod>
   </url>
 </urlset>

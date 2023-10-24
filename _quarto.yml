@@ -9,12 +9,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: project.qmd
-        text: Project
-      - href: research.qmd
-        text: Research
-      - href: publication.qmd
-        text: Publication
+      - href: posts/. #automatically picks the index.gmd file in the posts folder
+        text: Blog
 
 
 format:
@@ -22,6 +18,9 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
+
+execute:
+  freeze: auto
 
 
 

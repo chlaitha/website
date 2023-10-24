@@ -1,0 +1,12 @@
+---
+title: Research Blog
+subtible: Here I share information about my project
+listing:
+  contents: "*/" #*/ = looking intot all subforlders
+  type: default
+  fields: [image, data, title, author, description, reading-time]
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+search: false
+---

@@ -14,24 +14,31 @@
     "text": "My doctoral studies focus on the effect of conflict on agricultural laborers. Specifically, giving attention to the effect of conflict on agricultural wages identifies the link between exposure to violence, mental health, and labor productivity of agricultural laborers. Additionally, it looks at the unionization of labour, bargaining of laborers, and its effects on the working conditions of the workers. The study used both secondary and primary data sets. Armed Conflict Location and Data Project is used to measure the severity of conflict. The primary data is collected from 1,500 agricultural laborers across Myanmar using a survey instrument. The project is implemented with the International Food Policy Research Institute (IFPRI)."
   },
   {
+    "objectID": "posts/2023-10-24-research-project/index.html",
+    "href": "posts/2023-10-24-research-project/index.html",
+    "title": "Recall length and measurement error in agricultural surveys",
+    "section": "",
+    "text": "This paper assesses the relationship between the length of recall and nonrandom error in agricultural survey data. Using data from LSMS-ISA surveys in Malawi and Tanzania, we show that key input and output variables are systematically related to the length of the recall period, indicating the presence of nonrandom measurement error. With longer recall periods, farmers report higher quantities of harvest, labor and fertilizer inputs. Farmers list fewer plots as the recall period increases. We argue that it is plausible that farmers over-estimate plot-level outcomes – harvest, labor and fertilizer inputs – while it is also plausible that they forget some of their more marginal plots as their memory decays due to longer recall periods. We find evidence of measurement error related to the length of recall also in common measures of agricultural productivity. The size of the recall effect typically varies between 2 and 5 percent per additional month of recall length, making its impact on the reliability of key agricultural indicators, including SDG indicator 2.3, economically significant. With data reliability affecting policy effectiveness, improving agricultural survey data quality remains an important concern, especially in light of the ambitious 2030 agenda reflected in the Sustainable Development Goals. Mainstreaming objective measures where possible and reducing the risk of recall error through shorter recall periods appear to be promising avenues to improve the quality of key variables in agricultural surveys."
+  },
+  {
+    "objectID": "posts/2023-10-24-research-project/index.html#abstract",
+    "href": "posts/2023-10-24-research-project/index.html#abstract",
+    "title": "Recall length and measurement error in agricultural surveys",
+    "section": "",
+    "text": "This paper assesses the relationship between the length of recall and nonrandom error in agricultural survey data. Using data from LSMS-ISA surveys in Malawi and Tanzania, we show that key input and output variables are systematically related to the length of the recall period, indicating the presence of nonrandom measurement error. With longer recall periods, farmers report higher quantities of harvest, labor and fertilizer inputs. Farmers list fewer plots as the recall period increases. We argue that it is plausible that farmers over-estimate plot-level outcomes – harvest, labor and fertilizer inputs – while it is also plausible that they forget some of their more marginal plots as their memory decays due to longer recall periods. We find evidence of measurement error related to the length of recall also in common measures of agricultural productivity. The size of the recall effect typically varies between 2 and 5 percent per additional month of recall length, making its impact on the reliability of key agricultural indicators, including SDG indicator 2.3, economically significant. With data reliability affecting policy effectiveness, improving agricultural survey data quality remains an important concern, especially in light of the ambitious 2030 agenda reflected in the Sustainable Development Goals. Mainstreaming objective measures where possible and reducing the risk of recall error through shorter recall periods appear to be promising avenues to improve the quality of key variables in agricultural surveys."
+  },
+  {
+    "objectID": "posts/2023-10-24-research-project/index.html#heading",
+    "href": "posts/2023-10-24-research-project/index.html#heading",
+    "title": "Recall length and measurement error in agricultural surveys",
+    "section": "Heading",
+    "text": "Heading\nCite this paper (Carletto, Dillon, and Zezza 2021)\nCite the second paper (Dillon and Mensah 2023)\nCite the third paper (Wollburg, Tiberti, and Zezza 2021)\nCite the parer Carletto, Dillon, and Zezza (2021)"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "project.html",
-    "href": "project.html",
-    "title": "Andrew Laitha",
-    "section": "",
-    "text": "Literature review\nDeveloping survey questionnaire\nSurvey implementation\nData analysis\nPresentation"
-  },
-  {
-    "objectID": "project.html#ongoing-project",
-    "href": "project.html#ongoing-project",
-    "title": "Andrew Laitha",
-    "section": "",
-    "text": "Literature review\nDeveloping survey questionnaire\nSurvey implementation\nData analysis\nPresentation"
   }
 ]

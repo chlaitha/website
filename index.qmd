@@ -1,7 +1,7 @@
 ---
 title: "About"
 subtitle: "Andrew Laitha"
-image: ttt.jpg
+image: file.png
 about:
   template: trestles
 format: 

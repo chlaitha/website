@@ -8,6 +8,13 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: a.qmd
+        text: Project
+      - href: b.qmd
+        text: Research
+      - href: c.qmd
+        text: Publication
+
 
 
 format:
